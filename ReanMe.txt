@@ -1,0 +1,1 @@
+1.Data Set	Choose the Freebase Wikipedia Extraction (WEX). 	Use the “articles” files from the Data Set (31G).2.Top 100 Pages	Spark PageRank	GraphX PageRank3. Top 100 Universities.	Filter the result of PageRank with all world university names.
